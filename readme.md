@@ -32,6 +32,8 @@ We've collated a list of all the events in Australia that might be of interest t
 | [Great International Developer Summit (GIDS) Sydney](https://developersummit.com) | NSW | 19-Oct-2020 | 21-Oct-2020 ||| Various |
 | [Great International Developer Summit (GIDS) Melbourne](https://developersummit.com) | VIC | 21-Oct-2020 | 23-Oct-2020 ||| Various |
 | [Web Directions Summit](https://www.webdirections.org/wds/) | NSW | 04-Nov-2020 | 05-Nov-2020 ||| Various |
+| [Linux.conf.au](http://lca2021.linux.org.au/) | ACT | 25-Jan-2021 | 29-Jan-2021 ||| Various, Linux, FOSS |
+
 
 ### Call For Presenters - Year Round
 
